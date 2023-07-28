@@ -2,4 +2,4 @@
 Additional bash scripts for StarterAgent2D base
 
 
-### Change your Team Name in Scripts/start and Scripts/start.sh
+### :heavy_check_mark: Change your Team Name in Scripts/start and Scripts/start.sh
