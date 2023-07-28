@@ -1,0 +1,50 @@
+#!/bin/sh
+echo "######################################################################"
+echo "#                                                                    #"
+echo "#                             "EmperorTm"                            #"
+echo "#                                                                    #"
+echo "#     _____                                                          #"
+echo "#    |  ___                                        _____             #"
+echo "#    | |__   _ __ ___  _ __   ___ _ __ ___  _ __  |_   _|  __ ___    #"
+echo "#    |  __| |  _   _ \|  _ \ / _ \  __/ _ \|  __|   | |  |  _   _ \  #"
+echo "#    | |___ | | | | | | |_) |  __/ | | (_) | |      | |  | | | | | | #"
+echo "#    |_____ |_| |_| |_| .__/ \___|_|  \___/|_|      |_|  |_| |_| |_| #"
+echo "#                     | |                                            #"
+echo "#                                                                    #"
+echo "#                                                                    #"
+echo "######################################################################"
+echo "******************************************************************"
+echo " HELIOS base"
+echo " Created by Hidehisa Akiyama and Hiroki Shimora"
+echo " Edited by Erfan Fathi & Taha Shahsavand & Soroush Mazloom"
+echo " Copyright 2000-2007.  Hidehisa Akiyama"
+echo " Copyright 2007-2012.  Hidehisa Akiyama and Hiroki Shimora"
+echo " Copyright 2022-2023.  Erfan Fathi & Taha Shahsavand & Soroush Mazloom"
+echo " All rights reserved."
+echo "******************************************************************"
+
+
+./start 127.0.0.1 . 1 &
+sleep 2
+./start 127.0.0.1 . 2  &
+sleep 0.3
+./start 127.0.0.1 . 3  &
+sleep 0.3
+./start 127.0.0.1 . 4  &
+sleep 0.3
+./start 127.0.0.1 . 5  &
+sleep 0.3
+./start 127.0.0.1 . 6  &
+sleep 0.3
+./start 127.0.0.1 . 7  &
+sleep 0.3
+./start 127.0.0.1 . 8  &
+sleep 0.3
+./start 127.0.0.1 . 9  &
+sleep 0.3
+./start 127.0.0.1 . 10 &
+sleep 0.3
+./start 127.0.0.1 . 11 &
+sleep 0.3
+./start 127.0.0.1 . 12 &
+
